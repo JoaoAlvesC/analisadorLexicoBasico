@@ -1,0 +1,9 @@
+int aux = 7;
+
+float teste = 2;
+
+while () {}
+
+if (x == 4) {
+    x = x + 1;
+}
